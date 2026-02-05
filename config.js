@@ -44,9 +44,9 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "You wish?? 🥰🚀💝",  // Shows when they go past 5000%
+        extreme: " Oh Baby YES Please🥰🚀💝",  // Shows when they go past 5000%
         high: "please don't stop 🚀💝",              // Shows when they go past 1000%
-        normal: "Oh Yeah! 🥰"                           // Shows when they go past 100%
+        normal: "You wish?? 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
