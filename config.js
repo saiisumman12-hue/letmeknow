@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "would you let me slap YOU?",                                    // First interaction
+            text: "let me slap YOU Baby Girl?",                                    // First interaction
             yesBtn: "Yes",                               
             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
@@ -34,7 +34,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "When can I slap that ASS? 🌹", // The big question!
+            text: "can I get to slap the ASS too? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
