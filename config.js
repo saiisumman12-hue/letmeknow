@@ -28,7 +28,6 @@ const CONFIG = {
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "Hit Me please! ❤️"           // Secret hover message
         },
-
         second: {
             text: "I won't stop with one Slap?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
