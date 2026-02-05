@@ -30,7 +30,7 @@ const CONFIG = {
         },
         second: {
             text: "I won't stop with one Slap?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
+            startText: "How Many!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
